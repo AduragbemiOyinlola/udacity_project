@@ -18,3 +18,5 @@ The second project deals with creating interesting and trustworthy analysis and 
 Working on the third project, I used the Ford GoBike system data; this data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. The dataset contain 183412 rows and  16 columns.
 
 I will be using this dataset to predict if the individual used to bike to complete the trip or not. This project contains mainly visualization as this is the tool that was used to gain insight from the data.
+
+## **PROJECT 4**
