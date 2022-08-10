@@ -38,4 +38,4 @@ Writing a professional cover letter was the next digital profile that was worked
 
 Crafting a resume was the next project, this section deals with creating a professional resume knowing what should be added to a resume and what not to be added to a resume(extraneous information).
 
-You can view my certificate of my [LinkedIn account]()
+You can view my certificate on my [LinkedIn account](https://www.linkedin.com/posts/aduragbemi-oyinlola-206b361bb_certificate-of-graduation-from-a-udacity-activity-6963233350106910720-2wO8?utm_source=linkedin_share&utm_medium=member_desktop_web)
